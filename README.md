@@ -52,5 +52,6 @@ Aplicación web diseñada para la digitalización, reporte y seguimiento de fall
 
 * **Acceder a través del navegador web local o mediante la IP del servidor en la red de la planta (ej. http://localhost/lista_fallas).
 ---
-##🚀 Estado del Proyecto
-##Fase Actual: Fase 1 - Inicialización del repositorio, configuración del esqueleto del proyecto y modelado de la base de datos relacional.
+## 🚀 Estado del Proyecto
+
+## Fase Actual: Fase 1 - Inicialización del repositorio, configuración del esqueleto del proyecto y modelado de la base de datos relacional.
