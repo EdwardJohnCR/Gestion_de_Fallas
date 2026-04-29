@@ -37,19 +37,19 @@ Aplicación web diseñada para la digitalización, reporte y seguimiento de fall
     ├── js/                   # Scripts de la aplicación
     └── img/                  # Recursos gráficos y logotipos
 
-⚙️ Instalación y Despliegue Local
-Clonar este repositorio en el directorio del servidor web:
+## ⚙️ Instalación y Despliegue Local
+* **Clonar este repositorio en el directorio del servidor web:
 
-Bash
-cd /var/www/html/
-git clone [URL_DEL_REPOSITORIO] lista_fallas
-Crear la base de datos mantenimiento_fallas en MySQL.
+## Bash
+* **cd /var/www/html/
++ **git clone [URL_DEL_REPOSITORIO] lista_fallas
++ **Crear la base de datos mantenimiento_fallas en MySQL.
 
-Importar el script SQL inicial (disponible en la documentación del proyecto o en el directorio database/ cuando se genere).
+* **Importar el script SQL inicial (disponible en la documentación del proyecto o en el directorio database/ cuando se genere).
 
-Configurar las credenciales de acceso a MySQL en config/database.php.
+* **Configurar las credenciales de acceso a MySQL en config/database.php.
 
-Acceder a través del navegador web local o mediante la IP del servidor en la red de la planta (ej. http://localhost/lista_fallas).
+* **Acceder a través del navegador web local o mediante la IP del servidor en la red de la planta (ej. http://localhost/lista_fallas).
 
-🚀 Estado del Proyecto
-Fase Actual: Fase 1 - Inicialización del repositorio, configuración del esqueleto del proyecto y modelado de la base de datos relacional.
+##🚀 Estado del Proyecto
+##Fase Actual: Fase 1 - Inicialización del repositorio, configuración del esqueleto del proyecto y modelado de la base de datos relacional.
