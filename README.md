@@ -39,10 +39,10 @@ Aplicación web diseñada para la digitalización, reporte y seguimiento de fall
 ```
 ---
 ## ⚙️ Instalación y Despliegue Local
-* **Clonar este repositorio en el directorio del servidor web:
+* **Clonar este repositorio en el directorio del servidor web:**
 
 ## Bash
-* **cd /var/www/html/
+* **cd /var/www/html/**
 * **git clone [URL_DEL_REPOSITORIO] lista_fallas**
 * **Crear la base de datos mantenimiento_fallas en MySQL.**
 ---
