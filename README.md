@@ -43,14 +43,14 @@ Aplicación web diseñada para la digitalización, reporte y seguimiento de fall
 
 ## Bash
 * **cd /var/www/html/
-* **git clone [URL_DEL_REPOSITORIO] lista_fallas
-* **Crear la base de datos mantenimiento_fallas en MySQL.
+* **git clone [URL_DEL_REPOSITORIO] lista_fallas**
+* **Crear la base de datos mantenimiento_fallas en MySQL.**
 ---
-* **Importar el script SQL inicial (disponible en la documentación del proyecto o en el directorio database/ cuando se genere).
+* **Importar el script SQL inicial (disponible en la documentación del proyecto o en el directorio database/ cuando se genere).**
 
-* **Configurar las credenciales de acceso a MySQL en config/database.php.
+* **Configurar las credenciales de acceso a MySQL en config/database.php.**
 
-* **Acceder a través del navegador web local o mediante la IP del servidor en la red de la planta (ej. http://localhost/lista_fallas).
+* **Acceder a través del navegador web local o mediante la IP del servidor en la red de la planta (ej. http://localhost/lista_fallas).**
 ---
 ## 🚀 Estado del Proyecto
 
