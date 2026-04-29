@@ -36,7 +36,8 @@ Aplicación web diseñada para la digitalización, reporte y seguimiento de fall
     ├── css/                  # Hojas de estilo complementarias
     ├── js/                   # Scripts de la aplicación
     └── img/                  # Recursos gráficos y logotipos
-
+```
+---
 ## ⚙️ Instalación y Despliegue Local
 * **Clonar este repositorio en el directorio del servidor web:
 
